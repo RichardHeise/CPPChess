@@ -1,2 +1,2 @@
-# CppChess
-A chess in c++
+# ChessJS
+A chess in JS
